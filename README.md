@@ -5,6 +5,7 @@
   Bom dia, Boa tarde ou Boa noite<br>
   Estudante de <strong>Engenheiro de Software</strong> na <strong>FAG - Toledo/PR</strong>.<br>
   Focado nos estudos de BACK-END, com foco em linguagem C# e Banco de dados Relacional padrão PL\SQL.
+  
 </p>
 <h3> :rocket: &nbsp;Minhas Habilidades </h3>
 
@@ -21,6 +22,11 @@
   ![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 <hr>
+
+
+
+**WORK**
+- Inside Sistemas - Toledo/PR
 
 **DevOps**
 
