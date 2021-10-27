@@ -4,7 +4,8 @@
 <p align="left"> 
   Bom dia, Boa tarde ou Boa noite<br>
   Estudante de <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
-  Focado nos estudos de BACK-END, com foco em linguagem C#, Java Script, Java e Banco de dados Relacional padrão PL\SQL.
+  Focado nos estudos de BACK-END, com foco em linguagem C#, conhecimento nas linguagens Java Script, Java e Banco de dados Relacional padrão PL\SQL.
+  Conhecimento básico em BootStrap, CSS
   Dominio e entendimento da rotina Scrum com dominio na ferramenta Trello.
   
 </p>
