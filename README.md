@@ -3,11 +3,19 @@
 
 <p align="left"> 
   Bom dia, Boa tarde ou Boa noite<br>
-  Estudante de <strong>Engenheiro de Software</strong> na <strong>FAG - Toledo/PR</strong>.<br>
-  Focado nos estudos de BACK-END, com foco em linguagem C# e Banco de dados Relacional padrão PL\SQL.
+  Estudante de <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
+  Focado nos estudos de BACK-END, com foco em linguagem C#, Java Script, Java e Banco de dados Relacional padrão PL\SQL.
+  Dominio e entendimento da rotina Scrum com dominio na ferramenta Trello.
+  
 </p>
 
 <h3> :rocket: &nbsp;Minhas Habilidades </h3>
+
+    - Focado na evolução da carreira;
+    - Sempre disposto a aprender mais;
+    - Fácil relacionamento em grupo.
+    - Extrovertido
+
 
 **Aplicações e Dados**
 
