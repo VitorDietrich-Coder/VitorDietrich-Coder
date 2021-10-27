@@ -2,9 +2,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Bom dia, Boa tarde ou Boa noite<br>
-  Estudante de <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
-  Focado nos estudos de BACK-END, com foco em linguagem C#, conhecimento nas linguagens Java Script, Java e Banco de dados Relacional padrão PL\SQL.
+  Olá, seja bem-vindo ao meu perfil<br>
+  Estuadante de <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
+  Focado nos estudos de BACK-END, com foco em linguagem C#, conhecimento nas linguagens Java Script, Java e Banco de dados Relacional padrão SQL.
   Conhecimento básico em BootStrap e CSS.
   Dominio e entendimento da rotina Scrum com dominio na ferramenta Trello.
   
@@ -49,6 +49,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
 <br/>
 
 <br>
