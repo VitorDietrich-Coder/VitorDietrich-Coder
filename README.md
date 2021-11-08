@@ -6,13 +6,13 @@
   Estudante de <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
   Focado nos estudos de BACK-END, com foco em linguagem C#, conhecimento nas linguagens Java Script, Java e Banco de dados Relacional padrão SQL.
   Conhecimento básico em BootStrap, HTML, CSS e PHP.
-  Dominio e entendimento da rotina Scrum com dominio na ferramenta Trello.
+  Entendimento da rotina Scrum com dominio na ferramenta Trello.
   
 </p>
 
 <h3> :rocket: &nbsp;Minhas Habilidades </h3>
 
-    - Focado na evolução da carreira;
+    - Focado na evolução pessaoal e na carreira;
     - Sempre disposto a aprender mais;
     - Fácil relacionamento em grupo.
     - Extrovertido
