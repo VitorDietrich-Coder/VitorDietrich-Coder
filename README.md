@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, seja bem-vindo ao meu perfil<br>
+  Olá, seja bem-vindo ao meu perfil 😁<br>
   Estudante de <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
   Focado nos estudos de BACK-END, com foco em linguagem C#, conhecimento nas linguagens Java Script, Java e Banco de dados Relacional padrão SQL.
   Conhecimento básico em BootStrap, HTML, CSS e PHP.
