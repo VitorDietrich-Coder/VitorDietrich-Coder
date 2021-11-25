@@ -72,5 +72,6 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Vitor Dietrich](https://img.shields.io/badge/-Vitor%20Dietrich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/vitor-dietrich-69a3a8194/)
+
 [![Gmail Badge](https://img.shields.io/badge/-vitorjosedietrich@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:vitorjosedietrich@gmail.com)
 [![GitHub VitorDietrich-Coder ]( https://img.shields.io/github/followers/VitorDietrich-Coder?label=follow&style=social)](https://github.com/VitorDietrich-Coder)
