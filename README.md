@@ -4,8 +4,8 @@
 <p align="left"> 
   Olá, seja bem-vindo ao meu perfil 😁<br>
   Estudante de <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
-  Focado nos estudos de BACK-END, com foco em linguagem C#, conhecimento nas linguagens Java Script, Java e Banco de dados Relacional padrão SQL.
-  Conhecimento básico em BootStrap, HTML, CSS e PHP.
+  Focado nos estudos de BACK-END, com foco em linguagem C#, conhecimento nas linguagens Java Script e Java conhecimmento básico em Banco de dados Relacional padrão SQL.
+  e também em BootStrap, HTML, CSS e PHP.
   Entendimento da rotina Scrum com dominio na ferramenta Trello.
   
 </p>
