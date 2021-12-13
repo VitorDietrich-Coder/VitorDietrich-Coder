@@ -13,7 +13,7 @@
 <h3> :rocket: &nbsp;Minhas Habilidades </h3>
 
     - Focado na evolução pessaoal e na carreira;
-    - Sempre disposto a aprender mais;
+    - Sempre disposto a aprender cada vez mais;
     - Fácil relacionamento em grupo.
     - Extrovertido
 
