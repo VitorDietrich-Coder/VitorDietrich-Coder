@@ -55,18 +55,14 @@
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/VitorDietrich-Coder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDietrich-Coder&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/VitorDietrich-Coder">
-  
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorDietrich-Coder&show_icons=true&theme=dracula&line_height=27" alt="**Vitor** github stats"/>
-</a>
+<div align="left">
+  <a href="https://github.com/VitorDietrich-Coder">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorDietrich-Coder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDietrich-Coder&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <br>
-<img src="https://img.shields.io/static/v1?label=Overview&message=Vitor%20Dietrich&color=f8efd4&style=for-the-badge&logo=GitHub">
-
+<img src="https://img.shields.io/static/v1?label=Overview&message=Vitor%20Valle%20Dietrich&color=f8efd4&style=for-the-badge&logo=GitHub">
 <hr>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
