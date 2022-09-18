@@ -65,7 +65,7 @@
 </div>
 
 <br>
-<img src="https://img.shields.io/static/v1?label=Overview&message=Vitor%20Valle%20Dietrich&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Vitor%20Dietrich&color=f8efd4&style=for-the-badge&logo=GitHub">
 <hr>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
