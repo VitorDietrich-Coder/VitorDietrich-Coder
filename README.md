@@ -21,18 +21,21 @@
 **Aplicações e Dados**
 
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=ED8B00)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logosColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=777BB4)
   ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 
+  **Frameworks**
+
+  ![Jquery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)
+  ![Symfony](https://img.shields.io/badge/Symfony-333333?style=flat&logo=Symfony&logoColor=000000)
+  
 <hr>
-
-
 
 **WORK**
 - Inside Sistemas - Toledo/PR
