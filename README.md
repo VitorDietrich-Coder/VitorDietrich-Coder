@@ -58,12 +58,15 @@
 
 ## **GitHub Estatísticas**
 
-<div align="left">
-  <a href="https://github.com/VitorDietrich-Coder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorDietrich-Coder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDietrich-Coder&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+| ![](https://github-readme-stats.vercel.app/api?username=VitorDietrich-Coder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDietrich-Coder&layout=compact&langs_count=7&theme=dracula) |
+| :-: | :-: |
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorDietrich-Coder&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorDietrich-Coder&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorDietrich-Coder&theme=dracula) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorDietrich&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=VitorDietrich&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+  
 <br>
 <img src="https://img.shields.io/static/v1?label=Overview&message=Vitor%20Dietrich&color=f8efd4&style=for-the-badge&logo=GitHub">
 <hr>
