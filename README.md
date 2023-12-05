@@ -4,7 +4,7 @@
 <p align="left"> 
   Olá, seja bem-vindo ao meu perfil 😁<br>
   Estudante de <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
-  Focado nos estudos de BACK-END, com foco na linguagem C#, conhecimento nas linguagens conhecimmento em Banco de dados Relacional padrão SQL.
+  Focado nos estudos de BACK-END, com foco na linguagem C#, conhecimento em Banco de dados Relacional padrão SQL(MYSQL, POSTGRESQL, SQL SERVER, MARIADB).
   Conhecimento intermediário HTML, CSS, PHP, Java Script e Java.
   Entendimento da rotina Scrum com dominio na ferramenta Trello.
   
